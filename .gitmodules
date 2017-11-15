@@ -1,0 +1,3 @@
+[submodule "openFDAconnector"]
+	path = openFDAconnector
+	url = https://github.com/jonnyowenpowell/openFDAconnector.git
